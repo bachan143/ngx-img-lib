@@ -1,0 +1,58 @@
+{
+  "_from": "ngx-img-cropper",
+  "_id": "ngx-img-cropper@14.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-KxBQIJ5RTQ7qz3hIe2QMSeWUhv9k/Nb8CBksvQ4E9cPOVcd0fr11tnAUuVQD0vU2hqkNzcRebc+Nhh00lfHaAg==",
+  "_location": "/ngx-img-cropper",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ngx-img-cropper",
+    "name": "ngx-img-cropper",
+    "escapedName": "ngx-img-cropper",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ngx-img-cropper/-/ngx-img-cropper-14.0.1.tgz",
+  "_shasum": "dc367850e69bf6a5f9b6d0e89ab2ce435a388ca9",
+  "_spec": "ngx-img-cropper",
+  "_where": "E:\\ngx-img-library",
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "deprecated": false,
+  "description": "## Angular 9 (ivy) compatible!",
+  "es2020": "fesm2020/ngx-img-cropper.mjs",
+  "esm2020": "esm2020/ngx-img-cropper.mjs",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2020": "./esm2020/ngx-img-cropper.mjs",
+      "es2020": "./fesm2020/ngx-img-cropper.mjs",
+      "es2015": "./fesm2015/ngx-img-cropper.mjs",
+      "node": "./fesm2015/ngx-img-cropper.mjs",
+      "default": "./fesm2020/ngx-img-cropper.mjs"
+    }
+  },
+  "fesm2015": "fesm2015/ngx-img-cropper.mjs",
+  "fesm2020": "fesm2020/ngx-img-cropper.mjs",
+  "module": "fesm2015/ngx-img-cropper.mjs",
+  "name": "ngx-img-cropper",
+  "peerDependencies": {
+    "@angular/common": ">=14.2.0",
+    "@angular/core": ">=14.2.0"
+  },
+  "sideEffects": false,
+  "typings": "index.d.ts",
+  "version": "14.0.1"
+}
